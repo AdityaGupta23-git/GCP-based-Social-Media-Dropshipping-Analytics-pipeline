@@ -1,0 +1,11 @@
+post_id,campaign_id,ad_set_id,ad_id,platform,post_date,reach,impressions,engagement_rate,ctr,video_views,conversion_rate,ad_spend,cpc,cpm,roas,audience_age_group,audience_gender,audience_location,targeting_strategy,bidding_strategy
+P001,C001,AS001,A001,facebook,2024-03-01,45000,62000,4.82,2.31,12000,3.20,850.00,0.37,13.71,4.80,25-34,Mixed,IN-MH,Interest-based,CPC
+P002,C001,AS001,A002,instagram,2024-03-01,32000,48000,6.10,3.05,28000,4.10,720.00,0.46,15.00,5.20,18-24,Female,IN-DL,Lookalike,CPM
+P003,C002,AS002,A003,facebook,2024-03-02,78000,105000,3.45,1.89,0,2.80,1200.00,0.63,11.43,3.90,35-44,Male,IN-KA,Retargeting,CPC
+P004,C002,AS002,A004,tiktok,2024-03-02,92000,138000,7.80,4.22,85000,5.60,1650.00,0.28,11.96,6.10,18-24,Mixed,APAC,Broad,CPV
+P005,C003,AS003,A005,instagram,2024-03-03,21000,31500,5.30,2.75,18500,3.85,540.00,0.62,17.14,4.20,25-34,Female,IN-GJ,Interest-based,CPC
+P006,C003,AS003,A006,facebook,2024-03-03,56000,78000,4.10,2.10,0,2.50,980.00,0.59,12.56,3.60,45-54,Mixed,IN-UP,Retargeting,CPC
+P007,C004,AS004,A007,youtube,2024-03-04,120000,185000,3.20,1.42,142000,2.10,2100.00,1.48,11.35,3.20,25-44,Male,EMEA,Interest-based,CPV
+P008,C004,AS004,A008,tiktok,2024-03-04,68000,97000,8.90,5.10,91000,6.80,1380.00,0.27,14.23,7.40,18-24,Female,APAC,Broad,CPM
+P009,C005,AS005,A009,instagram,2024-03-05,39000,56000,5.70,3.20,42000,4.30,810.00,0.50,14.46,5.10,25-34,Mixed,IN-MH,Lookalike,CPC
+P010,C005,AS005,A010,facebook,2024-03-05,88000,124000,3.80,1.95,0,2.90,1420.00,0.73,11.45,4.10,35-54,Male,NA,Retargeting,CPC
